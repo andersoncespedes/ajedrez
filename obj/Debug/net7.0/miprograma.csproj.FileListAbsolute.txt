@@ -1,0 +1,15 @@
+/home/arteN01-043/anderson/miprograma/obj/Debug/net7.0/miprograma.csproj.AssemblyReference.cache
+/home/arteN01-043/anderson/miprograma/obj/Debug/net7.0/miprograma.GeneratedMSBuildEditorConfig.editorconfig
+/home/arteN01-043/anderson/miprograma/obj/Debug/net7.0/miprograma.AssemblyInfoInputs.cache
+/home/arteN01-043/anderson/miprograma/obj/Debug/net7.0/miprograma.AssemblyInfo.cs
+/home/arteN01-043/anderson/miprograma/obj/Debug/net7.0/miprograma.csproj.CoreCompileInputs.cache
+/home/arteN01-043/anderson/miprograma/bin/Debug/net7.0/miprograma
+/home/arteN01-043/anderson/miprograma/bin/Debug/net7.0/miprograma.deps.json
+/home/arteN01-043/anderson/miprograma/bin/Debug/net7.0/miprograma.runtimeconfig.json
+/home/arteN01-043/anderson/miprograma/bin/Debug/net7.0/miprograma.dll
+/home/arteN01-043/anderson/miprograma/bin/Debug/net7.0/miprograma.pdb
+/home/arteN01-043/anderson/miprograma/obj/Debug/net7.0/miprograma.dll
+/home/arteN01-043/anderson/miprograma/obj/Debug/net7.0/refint/miprograma.dll
+/home/arteN01-043/anderson/miprograma/obj/Debug/net7.0/miprograma.pdb
+/home/arteN01-043/anderson/miprograma/obj/Debug/net7.0/miprograma.genruntimeconfig.cache
+/home/arteN01-043/anderson/miprograma/obj/Debug/net7.0/ref/miprograma.dll
